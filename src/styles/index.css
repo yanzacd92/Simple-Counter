@@ -6,8 +6,17 @@
     justify-content: space-around;
     margin: 30px 20px 30px 20px;
     width: auto;
+    font-family: 'Roboto', sans-serif;
 }
 
 .icon {
     align-self: center;
+}
+
+.number {
+    width: 91px;
+    padding-left: 17px;
+    border-style: outset;
+    border-style: solid;
+    border-color: blue white blue white;
 }
