@@ -16,7 +16,9 @@
 .number {
     width: 91px;
     padding-left: 17px;
-    border-style: outset;
-    border-style: solid;
-    border-color: blue white blue white;
+    border-style: outset solid;
+    border-color: white;
+    border-radius: 15px;
+    border-bottom: none;
+    border-top: none;
 }
